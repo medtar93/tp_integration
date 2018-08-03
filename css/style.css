@@ -1,0 +1,94 @@
+@charset "utf-8";
+
+/* css général  */
+#clear {
+    clear: both;
+}
+#wrapper {
+    width: 1000px;
+    height: 820px;
+    margin: 0 auto;
+}
+h2 {
+    color: #79dbf8;
+}
+.rose {
+    color: #f583e5;
+}
+.gauche {
+    float: left;
+}
+.centre{
+    float: left;
+}
+.droite{
+    float: left;
+}
+
+/* css header */
+.titre {
+    margin-left: 15px;
+    width: 25%;
+    height: 10%;
+}
+.titre h1 {
+    margin:0 auto;
+    font-size: 40px
+}
+.titre p {
+    margin:0 auto;
+    font-size: 12px;
+}
+.numero {
+    margin-left: 17%;
+    width: 25%;
+    height: 10%;
+}
+.numero h2 {
+margin: 0 auto; 
+}
+.chiffre {
+    color: #79dbf8;
+    margin: 0 auto;
+}
+.jour {
+    margin:0 auto;
+    font-size: 15px;
+    font-style: italic;
+    color: gray;
+}
+.panier {
+    margin-left: 15px;
+    margin-bottom: 10px;
+    width: 25%;
+    height: 9%;
+    background: #79dbf8;
+}
+hr {
+    color: #fff;
+}
+.panier p {
+    margin: 0 auto;
+    color: #fff;
+}
+.panier span {
+    color: #fff;
+}
+
+/* 
+
+style NAV
+*/
+
+nav {
+    background: #79dbf8;
+    height: 40px;
+}
+nav a {
+    height: 40px;
+   line-height:40px;
+   text-decoration: none;
+   color: #fff;
+   padding: 45px;
+}
+
