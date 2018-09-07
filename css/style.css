@@ -92,3 +92,17 @@ nav a {
    padding: 45px;
 }
 
+.row1{
+    width: 20%; 
+    padding: 10px;
+}
+
+.row2{
+    width: 50%; 
+    padding: 10px;
+}
+.row3{
+    width: 20%;
+    padding: 10px; 
+}
+
